@@ -5,11 +5,12 @@ source_metadata:
   title: རྟའི་ཚེ་ཡི་རིག་བྱེད།
   author: ''
   volumes:
-    ec657767d0e644a1a3e2327865cc011e:
+    2e97ebee1f1a40c09321d4591174d97a:
       image_group_id: I1KG21857
-      title: ''
+      title: Volume 1 of rta'i tshe yi rig byed/
       volume_number: 1
       total_pages: 290
+      base_file: v001.txt
 ebook_metadata:
   title: རྟའི་ཚེ་ཡི་རིག་བྱེད།
   author: ''
